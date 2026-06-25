@@ -1,0 +1,7 @@
+-> campus notification microserver
+->create priority inbox based on topmost events
+->priority combination(events,placements,results)
+->write code to find top 10 notifications based on priority
+->so for thr user getting lots of notifications user unable yo find the important notifications amoung them
+->we need to develop a system that will prioritise the top notifications based on the combinations mentioned(placements,results,exam)
+->
